@@ -46,6 +46,4 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/Dalenson/Dalenson/blob/output/snake.svg" alt="Snake animation" />
-
 ###
