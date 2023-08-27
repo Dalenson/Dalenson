@@ -31,9 +31,6 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/dalenconc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=white&labelColor=E4405F&style=flat" height="24" alt="instagram logo"  />
-  </a>
   <a href="dal.colares@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=D14836&style=flat" height="24" alt="gmail logo"  />
   </a>
